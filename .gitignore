@@ -1,0 +1,18 @@
+# copy rice
+/images/*
+!/images/.gitkeep
+
+/audio/Samples/*
+!/audio/Samples/.gitkeep
+
+# exported files
+/export/
+/audio/Maxpod.*
+!/audio/Maxpod.als
+
+# ableton local files
+Ableton Project Info/
+/audio/Backup/
+
+# macOS being shit
+.DS_Store
